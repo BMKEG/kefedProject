@@ -1,0 +1,18 @@
+[submodule "ooevvDao"]
+	path = ooevvDao
+	url = https://github.com/BMKEG/ooevvDao
+[submodule "kefedDao"]
+	path = kefedDao
+	url = https://github.com/BMKEG/kefedDao
+[submodule "kefedServer"]
+	path = kefedServer
+	url = https://github.com/BMKEG/kefedServer
+[submodule "kefedClientComponents"]
+	path = kefedClientComponents
+	url = https://github.com/BMKEG/kefedClientComponents
+[submodule "kefedClientApp"]
+	path = kefedClientApp
+	url = https://github.com/BMKEG/kefedClientApp
+[submodule "bmkeg-parent"]
+	path = bmkeg-parent
+	url = https://github.com/BMKEG/bmkeg-parent
