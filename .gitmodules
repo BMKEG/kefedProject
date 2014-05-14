@@ -16,3 +16,12 @@
 [submodule "bmkeg-parent"]
 	path = bmkeg-parent
 	url = https://github.com/BMKEG/bmkeg-parent
+[submodule "vpdmf-ooevv"]
+	path = vpdmf-ooevv
+	url = https://github.com/BMKEG/vpdmf-ooevv.git
+[submodule "vpdmf-kefed"]
+	path = vpdmf-kefed
+	url = https://github.com/BMKEG/vpdmf-kefed.git
+[submodule "vpdmf-cosi"]
+	path = vpdmf-cosi
+	url = https://github.com/BMKEG/vpdmf-cosi.git
