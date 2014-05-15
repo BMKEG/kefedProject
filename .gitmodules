@@ -25,3 +25,9 @@
 [submodule "vpdmf-cosi"]
 	path = vpdmf-cosi
 	url = https://github.com/BMKEG/vpdmf-cosi.git
+[submodule "vpdmf-people"]
+	path = vpdmf-people
+	url = https://github.com/BMKEG/vpdmf-people.git
+[submodule "vpdmf-terminology"]
+	path = vpdmf-terminology
+	url = https://github.com/BMKEG/vpdmf-terminology.git
