@@ -31,3 +31,6 @@
 [submodule "vpdmf-terminology"]
 	path = vpdmf-terminology
 	url = https://github.com/BMKEG/vpdmf-terminology.git
+[submodule "sciKnowLab"]
+	path = sciKnowLab
+	url = https://github.com/BMKEG/sciKnowLab.git
